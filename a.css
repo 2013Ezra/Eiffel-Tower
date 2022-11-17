@@ -1,0 +1,27 @@
+#a {
+    font-size: 60px;
+    text-align: center;
+
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+    background-image: url(https://live.staticflickr.com/3148/2952008603_b74365ab12_b.jpg);
+    
+    color: white;
+    background-color: #181616   ;
+}
+p{
+    font-size : 25px;
+}
+iframe{
+    border: 9px  solid salmon;
+}
+#d{
+    box-shadow: 5px 4px 5px black;
+    margin-bottom: 30px;
+}
